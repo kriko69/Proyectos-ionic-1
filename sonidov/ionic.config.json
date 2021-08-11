@@ -1,0 +1,7 @@
+{
+  "name": "sonidov",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

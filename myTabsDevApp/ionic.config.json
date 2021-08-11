@@ -1,0 +1,8 @@
+{
+  "name": "myTabsDevApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a21857c4"
+}
